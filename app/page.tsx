@@ -1,4 +1,5 @@
-import Image from "next/image";
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 
 export default function Home() {
   return (
