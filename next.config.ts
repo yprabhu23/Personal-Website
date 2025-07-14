@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   output: 'export', // Required for static HTML export
-  basePath: '/yprabhu23.github.io',
+  basePath: '/Personal-Website',
   images: {
     unoptimized: true,
   },
