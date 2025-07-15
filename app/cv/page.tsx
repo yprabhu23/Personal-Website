@@ -64,6 +64,7 @@ export default function CV() {
             <li>Data Pipeline Operations: collect, label, and curate teleop logs; ensure training sets stay fresh and versioned</li>
             <li>Control-Stack Experiments: tweak PID/MPC parameters, run A/B trials, and plot performance deltas for senior developers</li>
             <li>Demo Prep & Field Support: flash builds, sanity-check sensors, shadow on-site deployments, capture edge-case telemetry, and develop ML/AI infra</li>
+      {/*  */}
           </ul>
         </div>
 
