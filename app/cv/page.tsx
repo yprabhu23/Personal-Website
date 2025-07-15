@@ -33,7 +33,7 @@ export default function CV() {
         <div>
           <p className="font-medium text-lg">North Penn High School</p>
           <p className="text-sm text-gray-400">
-            GPA: 4.65 / 4.0 • Jun 2021 • SAT: 1570 • Awards: ISEF Finalist
+            GPA: 4.65 / 4.0 • Jun 2023 • SAT: 1570 • Awards: ISEF Finalist
           </p>
           <p className="text-sm text-gray-400 mt-1">
             Bb Clarinetist – North Penn High School Wind Ensemble, PMEA All State Band
