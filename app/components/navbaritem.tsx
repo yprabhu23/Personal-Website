@@ -1,6 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 import clsx from "clsx";
 
 type NavLinkProps = {
@@ -19,11 +20,10 @@ export default function NavLink({
   const pathname = usePathname();
   const isActive = pathname === href;
   const isHovered = hoveredItem === label;
-
   const showActiveStyle = isActive && (!hoveredItem || isHovered);
 
   return (
-    <a
+    <Link
       href={href}
       onMouseEnter={() => setHoveredItem(label)}
       onMouseLeave={() => setHoveredItem(null)}
@@ -32,12 +32,11 @@ export default function NavLink({
         "transition-colors duration-800 ease-in-out",
         showActiveStyle &&
           "bg-gradient-to-r from-blue-500 to-green-500 shadow-inner text-white",
-
         !isActive &&
           "hover:bg-gradient-to-r from-blue-500 to-green-500 hover:text-white"
       )}
     >
       {label}
-    </a>
+    </Link>
   );
 }
