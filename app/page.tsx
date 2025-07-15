@@ -4,7 +4,7 @@ import './globals.css';
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[100px_250px] min-h-screen p-8 gap-8">
+    <div className="min-h-screen pt-28 px-6 p-8 gap-8">
       {/* Row 1: Intro */}
       <section className="flex items-center justify-center  p-6 rounded-md">
         <h1 className="text-3xl font-bold text-white">Hi, I'm Yash 👋</h1>
