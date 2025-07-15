@@ -57,7 +57,7 @@ export default function CV() {
         </div>
 
         <div className="mb-6">
-          <p className="font-medium text-lg">Nyro Robotics, San Francisco, CA</p>
+          <p className="font-medium text-lg">[Stealth Robotics Startup], San Francisco, CA</p>
           <p className="text-sm text-gray-400">Robot Learning Engineering Assistant • Jun 2025 – Present</p>
           <ul className="list-disc list-inside text-sm text-gray-300 mt-1">
             <li>Prototype Testing & Debugging: Run daily ML/AI trainings and deploy hardware-in-the-loop tests on humanoid subsystems, log failures, push firmware hot-fixes</li>

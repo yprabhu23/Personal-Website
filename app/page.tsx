@@ -22,7 +22,7 @@ export default function Home() {
           experiment with policy ensembles, and scale data collection for
           visuomotor policies. I’ve also contributed to projects across the
           robotics stack—from teleoperation systems to control tuning—during
-          internships at Nyro Robotics and Tangible Robotics. <br />
+          internships at [Stealth Robotics Startup] and Tangible Robotics. <br />
           <br />
           My work blends low-level programming, algorithmic rigor, and hands-on
           hardware debugging. I'm particularly interested in the Sim2Real
