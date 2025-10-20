@@ -30,7 +30,7 @@ export default function CV() {
 
         <div className="mb-6">
           <p className="font-medium text-lg">Massachusetts Institute of Technology (MIT)</p>
-          <p className="text-sm text-gray-400">GPA: 4.5/5.0</p>
+          <p className="text-sm text-gray-400">GPA: 4.7/5.0</p>
           <ul className="text-sm text-gray-300 mt-1 list-disc list-inside">
             <li>Candidate for Bachelor’s in Electrical Engineering and Computer Science — Flexible: Dec 2026/Jun 2027</li>
           </ul>
