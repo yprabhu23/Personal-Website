@@ -35,12 +35,8 @@ export default function CV() {
             <li>Candidate for Bachelor’s in Electrical Engineering and Computer Science — Flexible: Dec 2026/Jun 2027</li>
           </ul>
 
-          <p className="mt-2 text-sm text-gray-400">Relevant coursework:</p>
-          <ul className="text-sm text-gray-300 list-disc list-inside">
-            <li>Computer Architecture &nbsp;&nbsp;Design/Analysis of Algorithms &nbsp;&nbsp;Machine Learning &nbsp;&nbsp;Computer Vision</li>
-            <li>Lin. Alg/Optimization &nbsp;&nbsp;Statistics &nbsp;&nbsp;Probability/Random Vars &nbsp;&nbsp;Robotics & Autonomy</li>
-            <li>Low-Level Programming &nbsp;&nbsp;Fundamentals of Programming &nbsp;&nbsp;Multivariable Calculus</li>
-          </ul>
+          <p className="mt-2 text-sm text-gray-400">Relevant coursework: </p>
+          <p className="text-sm text-gray-300 list-disc list-inside"> Deep Learning (A), Controls (A), Computer Vision (A), Computer Architecture (A), Circuits (A), Statistics (A), Fundamentals of Programming (A), Robotics and Autonomy (A)</p>
 
           <p className="mt-2 text-sm text-gray-400">Extracurriculars:</p>
           <p className="text-sm text-gray-300">Men’s Varsity Soccer, Undergraduate Research</p>
